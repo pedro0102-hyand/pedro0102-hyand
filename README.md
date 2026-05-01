@@ -24,11 +24,9 @@ Tenho experiência com automação de documentos, extração e processamento de 
 - 🎓 Graduando em Ciência da Computação na UFRRJ com foco em Algoritmos e Ciência de Dados  
 - 🤖 Aprimorando minhas habilidades em modelos de Machine Learning (Regressão, Classificação e Clustering)  
 - ⚡ Desenvolvendo pipelines de IA Generativa otimizados para performance  
-
 ---
 
 ## 🌍 About Me
-
 Developer focused on building intelligent, scalable, and data-driven solutions.  
 I work at the intersection of software development and data science, designing robust systems and analytical pipelines with an emphasis on efficiency and performance.
 
@@ -40,7 +38,6 @@ Experienced in document automation, public data extraction, and distributed syst
 - ⚡ Building high-performance Generative AI pipelines  
 ---
 ### Data Science & AI
-
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -52,7 +49,6 @@ Experienced in document automation, public data extraction, and distributed syst
 </p>
 
 ### Backend & Vector Databases
-
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white" />

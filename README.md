@@ -50,3 +50,15 @@ Experienced in document automation, public data extraction, and distributed syst
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-2496ED?style=for-the-badge" />
 </p>
+
+### Backend & Vector Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-00f?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge" />
+</p>

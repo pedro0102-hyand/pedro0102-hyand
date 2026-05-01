@@ -37,7 +37,7 @@ Experienced in document automation, public data extraction, and distributed syst
 - 🤖 Improving Machine Learning models (Regression, Classification, Clustering)  
 - ⚡ Building high-performance Generative AI pipelines  
 ---
-### Data Science & AI
+### Data Science & AI (main focus)
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -66,4 +66,22 @@ Experienced in document automation, public data extraction, and distributed syst
   <img src="https://img.shields.io/badge/vuejs-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+## Atualmente Explorando / Currently Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+</p>
+
+---
+
+## Estatísticas / Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedro0102-hyand&show_icons=true&theme=nord" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro0102-hyand&layout=compact&theme=nord" height="150" />
 </p>

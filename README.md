@@ -78,9 +78,3 @@ Experienced in document automation, public data extraction, and distributed syst
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
----
-
-## Estatísticas / Stats
-<img src="https://github-readme-stats.vercel.app/api?username=pedro0102-hyand&show_icons=true&theme=nord" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro0102-hyand&layout=compact&theme=nord" height="150" />

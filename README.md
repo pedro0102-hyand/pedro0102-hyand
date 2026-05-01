@@ -58,3 +58,12 @@ Experienced in document automation, public data extraction, and distributed syst
   <img src="https://img.shields.io/badge/ChromaDB-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge" />
 </p>
+
+### Frontend 
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/vuejs-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>

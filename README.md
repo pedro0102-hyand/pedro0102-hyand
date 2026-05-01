@@ -81,7 +81,6 @@ Experienced in document automation, public data extraction, and distributed syst
 ---
 
 ## Estatísticas / Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro0102-hyand&show_icons=true&theme=nord" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro0102-hyand&layout=compact&theme=nord" height="150" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=pedro0102-hyand&show_icons=true&theme=nord" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro0102-hyand&layout=compact&theme=nord" height="150" />

@@ -89,3 +89,14 @@ Experienced in document automation, public data extraction, and distributed syst
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro0102-hyand&theme=nord" height="160" />
 </p>
+
+🐍 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro0102-hyand/pedro0102-hyand/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro0102-hyand/pedro0102-hyand/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/pedro0102-hyand/pedro0102-hyand/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pedro0102-hyand&color=5B8FBF&style=flat-square&label=Profile+Views" />
+</p>

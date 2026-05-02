@@ -11,6 +11,8 @@
   <a href="mailto:pedro41julio@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+
 </p>
 
 ## 🚀 Sobre Mim
@@ -78,8 +80,12 @@ Experienced in document automation, public data extraction, and distributed syst
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
-## Github Stats
+
+## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedro0102-hyand&show_icons=true&theme=nord" height="150" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedro0102-hyand&layout=compact&theme=nord" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedro0102-hyand&show_icons=true&theme=nord&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedro0102-hyand&layout=compact&theme=nord" height="160" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro0102-hyand&theme=nord" height="160" />
 </p>
